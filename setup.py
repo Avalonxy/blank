@@ -8,7 +8,7 @@ setup(
     version="0.1.0",
     author="Avalonxy",
     author_email="avalon@fts77.ru",
-    description="Библиотека для работы с авиационными данными и расчетов",
+    description="Library for aviation calculation",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Avalonxy/blank",
