@@ -13,7 +13,7 @@
 ## Установка
 
 ```bash
-pip install aviation-lib
+(Будет реализовано позже) pip install aviation-lib
 ```
 
 ## Быстрый старт
