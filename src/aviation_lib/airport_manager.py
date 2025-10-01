@@ -89,7 +89,7 @@ class AirportManager:
                 if airport.country.lower() == country.lower()]
     
     def calculate_distance_between_airports(self, icao1: str, icao2: str) -> Optional[float]:
-        """Расчет расстояния между двумя аэропортами"""
+        """Вычисляет расстояние между аэропортами"""
         airport1 = self.get_airport(icao1)
         airport2 = self.get_airport(icao2)
         
